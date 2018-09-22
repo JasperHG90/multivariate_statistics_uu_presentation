@@ -23,13 +23,13 @@ Introduction
 Execute the following in a terminal:
 
 ```shell
-docker pull jhginn/practical_mvsuu
+docker pull jhginn/multivariate_statistics_uu
 ```
 
 Then:
 
 ```shell
-docker run -e PASSWORD=stats -p 8787:8787 jhginn/practical_mvsuu
+docker run -e PASSWORD=stats -p 8787:8787 jhginn/multivariate_statistics_uu
 ```
 
 Go to [http://localhost:8787](http://localhost:8787)
@@ -136,9 +136,9 @@ Appendix: Links
 =======================================================
 
 - [`mnlr` R package](https://github.com/JasperHG90/mnlr) used for multinomial logistic regression
-- [github repository with slides](https://github.com/JasperHG90/multivariate_statistics_uu)
-- [github repository with practical & Dockerfile]()
-- [Docker image on Dockerhub]()
+- [github repository with slides](https://github.com/JasperHG90/multivariate_statistics_uu_presentation)
+- [github repository with practical & Dockerfile](https://github.com/JasperHG90/multivariate_statistics_uu)
+- [Docker image on Dockerhub](https://hub.docker.com/r/jhginn/multivariate_statistics_uu/)
 
 Appendix: Resources
 =======================================================
@@ -148,3 +148,4 @@ Appendix: Resources
   - Simple cross-validation (p.176)
   - Shrinkage methods (pp.214-227)
 - [Docker documentation](https://docs.docker.com/)
+- [Logistic Regression in R](https://rpubs.com/rslbliss/r_logistic_ws)
