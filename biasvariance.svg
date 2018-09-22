@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="biasvariance.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2293"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1;fill:#00ff00;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2291" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2241"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2239" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2183"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2181" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2143"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2141"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path850"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path847"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path847-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path850-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="446.59088"
+     inkscape:cy="869.27221"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3332"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path835"
+         d="M 17.864082,48.963136 H 194.52927"
+         style="fill:none;stroke:#000000;stroke-width:1.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+      <text
+         id="text841"
+         y="34.873051"
+         x="16.217478"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="34.873051"
+           x="16.217478"
+           id="tspan839"
+           sodipodi:role="line">More bias</tspan></text>
+      <text
+         id="text845"
+         y="35.161846"
+         x="137.2868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="35.161846"
+           x="137.2868"
+           id="tspan843"
+           sodipodi:role="line">More variance</tspan></text>
+      <text
+         id="text841-3-5-7"
+         y="69.806061"
+         x="15.453827"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2433-9"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="69.806061"
+           x="15.453827"
+           sodipodi:role="line">Model error introduced</tspan><tspan
+           id="tspan2484"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="83.035233"
+           x="15.453827"
+           sodipodi:role="line">due to model type.</tspan></text>
+      <text
+         id="text841-3-5-7-6"
+         y="69.010422"
+         x="121.6607"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2484-8"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="69.010422"
+           x="121.6607"
+           sodipodi:role="line">Error introduced due to</tspan><tspan
+           id="tspan2550"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="82.239594"
+           x="121.6607"
+           sodipodi:role="line">variance in data</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.43879"
+       y="148.52934"
+       id="text841-3-5-7-2-7"><tspan
+         sodipodi:role="line"
+         x="105.43879"
+         y="148.52934"
+         style="font-size:5.29166698px;stroke-width:0.26458332"
+         id="tspan3305">Model is a 'black box'. Maximize </tspan><tspan
+         sodipodi:role="line"
+         x="105.43879"
+         y="161.75851"
+         style="font-size:5.29166698px;stroke-width:0.26458332"
+         id="tspan3309">trade-off between bias &amp; variance</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3313"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Myriad-pro;font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Myriad-pro Bold';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3315"><rect
+           id="rect3317"
+           width="922.26929"
+           height="591.9494"
+           x="-42.426407"
+           y="598.25049" /></flowRegion><flowPara
+         id="flowPara3319"></flowPara></flowRoot>    <g
+       id="g3468"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         id="text841-3"
+         y="180.07484"
+         x="28.335058"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="180.07484"
+           x="28.335058"
+           id="tspan839-6"
+           sodipodi:role="line">Easier to </tspan><tspan
+           id="tspan1455"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="193.30402"
+           x="28.335058"
+           sodipodi:role="line">interpret</tspan></text>
+      <text
+         id="text841-3-7"
+         y="181.58452"
+         x="136.53026"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-3"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="181.58452"
+           x="136.53026"
+           sodipodi:role="line">Harder to</tspan><tspan
+           id="tspan1480"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="194.81369"
+           x="136.53026"
+           sodipodi:role="line">interpret</tspan></text>
+      <text
+         id="text841-3-5"
+         y="208.18074"
+         x="28.925129"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-2"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="208.18074"
+           x="28.925129"
+           sodipodi:role="line">Simpler</tspan><tspan
+           id="tspan2433"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="221.40991"
+           x="28.925129"
+           sodipodi:role="line">model</tspan></text>
+      <text
+         id="text841-3-5-9"
+         y="209.4462"
+         x="136.7942"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2433-2"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="209.4462"
+           x="136.7942"
+           sodipodi:role="line">Complex</tspan><tspan
+           id="tspan2458"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="222.67537"
+           x="136.7942"
+           sodipodi:role="line">model</tspan></text>
+      <text
+         id="text841-3-3"
+         y="185.46318"
+         x="17.699806"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="185.46318"
+           x="17.699806"
+           sodipodi:role="line">+</tspan></text>
+      <text
+         id="text841-3-3-6"
+         y="213.4568"
+         x="18.158401"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0-2"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="213.4568"
+           x="18.158401"
+           sodipodi:role="line">+</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path835-2"
+         d="M 14.566174,128.5694 H 191.23137"
+         style="fill:none;stroke:#000000;stroke-width:1.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-end:url(#Arrow1Lend-2)" />
+      <text
+         id="text841-37"
+         y="114.48034"
+         x="12.919572"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="114.48034"
+           x="12.919572"
+           id="tspan839-5"
+           sodipodi:role="line">Understanding</tspan></text>
+      <text
+         id="text845-9"
+         y="114.76912"
+         x="148.42146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="114.76912"
+           x="148.42146"
+           id="tspan843-2"
+           sodipodi:role="line">Prediction</tspan></text>
+      <text
+         id="text841-3-5-7-2"
+         y="148.74281"
+         x="14.993279"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2484-9"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="148.74281"
+           x="14.993279"
+           sodipodi:role="line">Err in favour of bias</tspan><tspan
+           id="tspan3278"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="161.97198"
+           x="14.993279"
+           sodipodi:role="line">and interpretability</tspan></text>
+      <text
+         id="text841-3-5-1"
+         y="235.01826"
+         x="27.93289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2433-93"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="235.01826"
+           x="27.93289"
+           sodipodi:role="line">Emphasis</tspan><tspan
+           id="tspan3371"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="248.24744"
+           x="27.93289"
+           sodipodi:role="line">on theory</tspan></text>
+      <text
+         id="text841-3-3-6-1"
+         y="240.29433"
+         x="17.166162"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0-2-9"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="240.29433"
+           x="17.166162"
+           sodipodi:role="line">+</tspan></text>
+      <text
+         id="text841-3-5-4"
+         y="237.42369"
+         x="136.44432"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2433-8"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="237.42369"
+           x="136.44432"
+           sodipodi:role="line">Emphasis on</tspan><tspan
+           id="tspan3389"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="250.65286"
+           x="136.44432"
+           sodipodi:role="line">computational</tspan><tspan
+           id="tspan3391"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="263.88202"
+           x="136.44432"
+           sodipodi:role="line">models</tspan></text>
+      <text
+         id="text841-3-3-6-4"
+         y="249.04967"
+         x="125.14842"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0-2-5"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="249.04967"
+           x="125.14842"
+           sodipodi:role="line">+</tspan></text>
+      <text
+         id="text841-3-3-6-4-0"
+         y="218.21832"
+         x="125.32811"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0-2-5-3"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="218.21832"
+           x="125.32811"
+           sodipodi:role="line">+</tspan></text>
+      <text
+         id="text841-3-3-6-4-0-6"
+         y="188.56755"
+         x="125.86802"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Myriad-pro;-inkscape-font-specification:'Myriad-pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1455-0-2-5-3-1"
+           style="font-size:7.05555534px;stroke-width:0.26458332"
+           y="188.56755"
+           x="125.86802"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+  </g>
+</svg>
