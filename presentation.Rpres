@@ -6,7 +6,7 @@ autosize: true
 font-family: 'Helvetica'
 css: custom.css
 
-Table of Contents
+Table of Contents 
 ========================================================
 
 - Introduction 
