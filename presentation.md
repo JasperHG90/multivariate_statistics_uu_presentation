@@ -1,6 +1,6 @@
-Practical: Multinomial Logistic Regression in R
+Multinomial Logistic Regression in R
 ========================================================
-author: Jasper Ginn & Sarah Mod
+author: Sára Mód & Jasper Ginn
 date: 26/09/2018
 autosize: true
 font-family: 'Helvetica'
@@ -9,7 +9,8 @@ css: custom.css
 Table of Contents 
 ========================================================
 
-- Introduction 
+- Multinomial logistic regression: when to use?
+- Introduction to practical
 - Bias-variance trade-off
 - Understanding v. predicting
 - A 'naive' multinomial model
@@ -17,7 +18,29 @@ Table of Contents
 - Regularization
 - Appendices
 
-Introduction
+* Presentation: http://rpubs.com/jhginn/mvsuu
+
+Multinomial logistic regression: when to use? (1)
+========================================================
+
+<center><img src="s1.png"></center>
+
+Multinomial logistic regression: when to use? (2)
+========================================================
+
+<center><img src="sara2.png"></center>
+
+Multinomial logistic regression: when to use? (3)
+========================================================
+
+<center><img src="sara3.png"></center>
+
+Multinomial logistic regression: when to use? (4)
+========================================================
+
+<center><img src="sara4.png"></center>
+
+Introduction to practical
 ========================================================
 
 Execute the following in a terminal:
@@ -33,6 +56,14 @@ docker run -e PASSWORD=stats -p 8787:8787 jhginn/multivariate_statistics_uu
 ```
 
 Go to [http://localhost:8787](http://localhost:8787)
+
+OR
+========================================================
+
+* Visit: http://maraudingmeerkat.nl/practical/yourfirstname/
+
+  * Username: rstudio
+  * Password: stats
  
 Bias-Variance Trade-Off 
 ========================================================
