@@ -1,4 +1,4 @@
-Multinomial Logistic Regression in R
+Multinomial Logistic Regression
 ========================================================
 author: Sára Mód & Jasper Ginn
 date: 26/09/2018
